@@ -1,10 +1,6 @@
 
 package com.tutk.common;
 
-import android.util.Base64;
-
-import org.apache.commons.codec.binary.Hex;
-
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
 
